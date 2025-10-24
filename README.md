@@ -2,12 +2,12 @@
 
 AUTOMATIC WATER DISPENSER SYSTEM - PROJECT DOCUMENTATION
 
-Introduction
+Introduction:
 The Automatic Water Dispenser is designed to supply water to a grinding machine process in a controlled manner.
 The system uses an Arduino microcontroller to monitor water levels via a sensor, control a DC water pump through a MOSFET switch, and provide status feedback via LEDs and buzzer.
 The prototype demonstrates how water can be automatically dispensed while ensuring the pump is protected from dry running.
 
-Objectives
+Objectives:
 To develop a low-cost, automated water dispenser for grinding processes.
 To prevent dry running of the pump using a water level sensor.
 To enable manual ON/OFF control via a toggle switch.
@@ -29,7 +29,7 @@ Resistors:
 Switch (Enable ON/OFF).
 Breadboard and jumper wires.
 
-Software
+Software:
 Arduino IDE.
 Serial Monitor for debugging.
 

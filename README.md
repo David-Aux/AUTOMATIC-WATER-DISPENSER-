@@ -14,6 +14,8 @@ To enable manual ON/OFF control via a toggle switch.
 To provide status indication through LEDs and buzzer.
 To validate that the design works with a 12 V submersible DC pump.
 
+watch the demo video here: https://youtube.com/shorts/nkNgYYIRG6g?si=w__AItJa4wKFLkLc
+
 System Components:
 Hardware:
 Arduino Uno / Nano (microcontroller)
